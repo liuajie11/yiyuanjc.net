@@ -540,7 +540,7 @@ const pages = {
                   <a class="btn-speed-chart" href="review.html?id=yunjiexian#speed">📊 实测图</a>
                 </td>
                 <td>
-                  <a class="btn-compass-official" href="https://youxia01.yunjiexianaff.com/#/?code=8ImGvubv" target="_blank" rel="noopener sponsored">直达官网 →</a>
+                  <a class="btn-compass-official" href="https://liuajie7.yunjiexianaff.com/#/?code=AMWirEkQ" target="_blank" rel="noopener sponsored">直达官网 →</a>
                 </td>
               </tr>
 
@@ -582,7 +582,7 @@ const pages = {
                   <a class="btn-speed-chart" href="review.html?id=dalao#speed">📊 实测图</a>
                 </td>
                 <td>
-                  <a class="btn-compass-official" href="https://liu01.dalaoyunaff.com/#/?code=9A9fbKzz" target="_blank" rel="noopener sponsored">直达官网 →</a>
+                  <a class="btn-compass-official" href="https://liujie2.dalaoyunaff.com/#/?code=mmPDuc6r" target="_blank" rel="noopener sponsored">直达官网 →</a>
                 </td>
               </tr>
 
@@ -624,7 +624,7 @@ const pages = {
                   <a class="btn-speed-chart" href="review.html?id=huanqiu#speed">📊 实测图</a>
                 </td>
                 <td>
-                  <a class="btn-compass-official" href="https://123pps01.huanqiutiaff.com/#/?code=iJzShI5m" target="_blank" rel="noopener sponsored">直达官网 →</a>
+                  <a class="btn-compass-official" href="https://liuajie740.huanqiutiaff.com/#/?code=1PrqjboO" target="_blank" rel="noopener sponsored">直达官网 →</a>
                 </td>
               </tr>
 
@@ -666,7 +666,7 @@ const pages = {
                   <a class="btn-speed-chart" href="review.html?id=liulian#speed">📊 实测图</a>
                 </td>
                 <td>
-                  <a class="btn-compass-official" href="http://853vip01.liulianyunaff.com/#/?code=O6mS8K5N" target="_blank" rel="noopener sponsored">直达官网 →</a>
+                  <a class="btn-compass-official" href="https://liuajie74.liulianyunaff.com/#/?code=rp2bbeus" target="_blank" rel="noopener sponsored">直达官网 →</a>
                 </td>
               </tr>
 
@@ -708,7 +708,7 @@ const pages = {
                   <a class="btn-speed-chart" href="review.html?id=shenxing#speed">📊 实测图</a>
                 </td>
                 <td>
-                  <a class="btn-compass-official" href="https://fugui0077.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">直达官网 →</a>
+                  <a class="btn-compass-official" href="https://wuhan01.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">直达官网 →</a>
                 </td>
               </tr>
 
@@ -834,7 +834,7 @@ const pages = {
                   <a class="btn-speed-chart" href="review.html?id=shandian#speed">📊 实测图</a>
                 </td>
                 <td>
-                  <a class="btn-compass-official" href="https://eothvip01.shandianshuaff.com/#/?code=qNodU3f6" target="_blank" rel="noopener sponsored">直达官网 →</a>
+                  <a class="btn-compass-official" href="https://liujie2.shandianshuaff.com/#/?code=vwBNE30O" target="_blank" rel="noopener sponsored">直达官网 →</a>
                 </td>
               </tr>
             </tbody>
@@ -1693,7 +1693,7 @@ const pages = {
               <span>购买提示：套餐页面写明虚拟商品不支持退款；建议先用轻云基础月付验证晚高峰与多设备兼容性。</span>
             </div>
             <div class="rec-actions-bar">
-              <a class="btn-official" href="https://youxia01.yunjiexianaff.com/#/?code=8ImGvubv" target="_blank" rel="noopener sponsored">直达官网注册 <span>↗</span></a>
+              <a class="btn-official" href="https://liuajie7.yunjiexianaff.com/#/?code=AMWirEkQ" target="_blank" rel="noopener sponsored">直达官网注册 <span>↗</span></a>
               <a class="btn-review" href="review.html?id=yunjiexian">查看深度测评报告 <span>→</span></a>
             </div>
           </article>
@@ -1754,7 +1754,7 @@ const pages = {
               <span>购买提示：整体备用线路数相对有限，建议设备少、线路需求明确的用户首选月付测试。</span>
             </div>
             <div class="rec-actions-bar">
-              <a class="btn-official" href="https://liu01.dalaoyunaff.com/#/?code=9A9fbKzz" target="_blank" rel="noopener sponsored">直达官网注册 <span>↗</span></a>
+              <a class="btn-official" href="https://liujie2.dalaoyunaff.com/#/?code=mmPDuc6r" target="_blank" rel="noopener sponsored">直达官网注册 <span>↗</span></a>
               <a class="btn-review" href="review.html?id=dalao">查看深度测评报告 <span>→</span></a>
             </div>
           </article>
@@ -1814,7 +1814,7 @@ const pages = {
               <span>购买提示：公开检测延迟超过 2 秒，节点列表偶有延迟刷新；购买前请在后台刷新确认。</span>
             </div>
             <div class="rec-actions-bar">
-              <a class="btn-official" href="https://123pps01.huanqiutiaff.com/#/?code=iJzShI5m" target="_blank" rel="noopener sponsored">直达官网注册 <span>↗</span></a>
+              <a class="btn-official" href="https://liuajie740.huanqiutiaff.com/#/?code=1PrqjboO" target="_blank" rel="noopener sponsored">直达官网注册 <span>↗</span></a>
               <a class="btn-review" href="review.html?id=huanqiu">查看深度测评报告 <span>→</span></a>
             </div>
           </article>
@@ -1874,7 +1874,7 @@ const pages = {
               <span>选购提醒：入口恢复不代表后台服务稳定；在账号恢复前切勿根据宣传直接购买年付套餐。</span>
             </div>
             <div class="rec-actions-bar">
-              <a class="btn-official" href="https://eothvip01.shandianshuaff.com/#/?code=qNodU3f6" target="_blank" rel="noopener sponsored">直达官网注册 <span>↗</span></a>
+              <a class="btn-official" href="https://liujie2.shandianshuaff.com/#/?code=vwBNE30O" target="_blank" rel="noopener sponsored">直达官网注册 <span>↗</span></a>
               <a class="btn-review" href="review.html?id=shandian">查看深度测评报告 <span>→</span></a>
             </div>
           </article>
@@ -1935,7 +1935,7 @@ const pages = {
               <span>购买提示：套餐页面写明虚拟商品不支持退款；购买前务必按月付验证节点与原生 IP 质量。</span>
             </div>
             <div class="rec-actions-bar">
-              <a class="btn-official" href="http://853vip01.liulianyunaff.com/#/?code=O6mS8K5N" target="_blank" rel="noopener sponsored">直达官网注册 <span>↗</span></a>
+              <a class="btn-official" href="https://liuajie74.liulianyunaff.com/#/?code=rp2bbeus" target="_blank" rel="noopener sponsored">直达官网注册 <span>↗</span></a>
               <a class="btn-review" href="review.html?id=liulian">查看深度测评报告 <span>→</span></a>
             </div>
           </article>
@@ -1996,7 +1996,7 @@ const pages = {
               <span>购买提示：套餐页面个别卡片显示的流量数字与说明存在笔误，最终请以结账页为准；建议先从尝鲜包开始。</span>
             </div>
             <div class="rec-actions-bar">
-              <a class="btn-official" href="https://fugui0077.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">直达官网注册 <span>↗</span></a>
+              <a class="btn-official" href="https://wuhan01.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">直达官网注册 <span>↗</span></a>
               <a class="btn-review" href="review.html?id=shenxing">查看深度测评报告 <span>→</span></a>
             </div>
           </article>
@@ -2098,7 +2098,7 @@ const pages = {
                 <td>50/50 在线 (自动选优)</td>
                 <td>¥25/月 (150GB)</td>
                 <td>四端全支持</td>
-                <td><div class="matrix-actions"><a class="table-btn-official" href="https://youxia01.yunjiexianaff.com/#/?code=8ImGvubv" target="_blank" rel="noopener sponsored">官网直达 ↗</a><a class="table-btn-review" href="review.html?id=yunjiexian">深度测评</a></div></td>
+                <td><div class="matrix-actions"><a class="table-btn-official" href="https://liuajie7.yunjiexianaff.com/#/?code=AMWirEkQ" target="_blank" rel="noopener sponsored">官网直达 ↗</a><a class="table-btn-review" href="review.html?id=yunjiexian">深度测评</a></div></td>
               </tr>
               <tr>
                 <td><div class="matrix-brand"><span class="matrix-logo logo-coral">佬</span>大佬云机场</div></td>
@@ -2106,7 +2106,7 @@ const pages = {
                 <td>2/2 线路全通 (952ms)</td>
                 <td>¥19.99/月 (100GB)</td>
                 <td>设备不限</td>
-                <td><div class="matrix-actions"><a class="table-btn-official" href="https://liu01.dalaoyunaff.com/#/?code=9A9fbKzz" target="_blank" rel="noopener sponsored">官网直达 ↗</a><a class="table-btn-review" href="review.html?id=dalao">深度测评</a></div></td>
+                <td><div class="matrix-actions"><a class="table-btn-official" href="https://liujie2.dalaoyunaff.com/#/?code=mmPDuc6r" target="_blank" rel="noopener sponsored">官网直达 ↗</a><a class="table-btn-review" href="review.html?id=dalao">深度测评</a></div></td>
               </tr>
               <tr>
                 <td><div class="matrix-brand"><span class="matrix-logo logo-green">环</span>环球梯机场</div></td>
@@ -2114,7 +2114,7 @@ const pages = {
                 <td>12/12 节点 (延迟23ms)</td>
                 <td>¥22/月 (140GB)</td>
                 <td>限制 3-10 台</td>
-                <td><div class="matrix-actions"><a class="table-btn-official" href="https://123pps01.huanqiutiaff.com/#/?code=iJzShI5m" target="_blank" rel="noopener sponsored">官网直达 ↗</a><a class="table-btn-review" href="review.html?id=huanqiu">深度测评</a></div></td>
+                <td><div class="matrix-actions"><a class="table-btn-official" href="https://liuajie740.huanqiutiaff.com/#/?code=1PrqjboO" target="_blank" rel="noopener sponsored">官网直达 ↗</a><a class="table-btn-review" href="review.html?id=huanqiu">深度测评</a></div></td>
               </tr>
               <tr>
                 <td><div class="matrix-brand"><span class="matrix-logo logo-violet">闪</span>闪电鼠机场</div></td>
@@ -2122,7 +2122,7 @@ const pages = {
                 <td>6 条入口恢复 (863ms)</td>
                 <td>官网实时为准</td>
                 <td>待后台核验</td>
-                <td><div class="matrix-actions"><a class="table-btn-official" href="https://eothvip01.shandianshuaff.com/#/?code=qNodU3f6" target="_blank" rel="noopener sponsored">官网直达 ↗</a><a class="table-btn-review" href="review.html?id=shandian">深度测评</a></div></td>
+                <td><div class="matrix-actions"><a class="table-btn-official" href="https://liujie2.shandianshuaff.com/#/?code=vwBNE30O" target="_blank" rel="noopener sponsored">官网直达 ↗</a><a class="table-btn-review" href="review.html?id=shandian">深度测评</a></div></td>
               </tr>
               <tr>
                 <td><div class="matrix-brand"><span class="matrix-logo logo-coral">榴</span>榴莲云机场</div></td>
@@ -2130,7 +2130,7 @@ const pages = {
                 <td>3/3 入口可用 (原生IP)</td>
                 <td>¥24/月 (140GB)</td>
                 <td>四端支持</td>
-                <td><div class="matrix-actions"><a class="table-btn-official" href="http://853vip01.liulianyunaff.com/#/?code=O6mS8K5N" target="_blank" rel="noopener sponsored">官网直达 ↗</a><a class="table-btn-review" href="review.html?id=liulian">深度测评</a></div></td>
+                <td><div class="matrix-actions"><a class="table-btn-official" href="https://liuajie74.liulianyunaff.com/#/?code=rp2bbeus" target="_blank" rel="noopener sponsored">官网直达 ↗</a><a class="table-btn-review" href="review.html?id=liulian">深度测评</a></div></td>
               </tr>
               <tr>
                 <td><div class="matrix-brand"><span class="matrix-logo logo-blue">神</span>神行加速</div></td>
@@ -2138,7 +2138,7 @@ const pages = {
                 <td>50/50 在线 (延迟23ms)</td>
                 <td>¥23/月 (150GB)</td>
                 <td>不限客户端</td>
-                <td><div class="matrix-actions"><a class="table-btn-official" href="https://fugui0077.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">官网直达 ↗</a><a class="table-btn-review" href="review.html?id=shenxing">深度测评</a></div></td>
+                <td><div class="matrix-actions"><a class="table-btn-official" href="https://wuhan01.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">官网直达 ↗</a><a class="table-btn-review" href="review.html?id=shenxing">深度测评</a></div></td>
               </tr>
             </tbody>
           </table>
