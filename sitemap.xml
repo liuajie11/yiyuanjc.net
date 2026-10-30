@@ -53,7 +53,7 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- 15家机场独立测评详情页 -->
+  <!-- 16家机场独立测评详情页 -->
   <url>
     <loc>https://yiyuanjc.net/review.html?id=speed</loc>
     <lastmod>2026-10-15</lastmod>
@@ -141,6 +141,12 @@
   <url>
     <loc>https://yiyuanjc.net/review.html?id=shenxing</loc>
     <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://yiyuanjc.net/review.html?id=ermao</loc>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>

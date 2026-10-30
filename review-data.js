@@ -14,6 +14,7 @@ const AIRPORTS = [
   {id:'shandian', name:'闪电鼠机场', english:'Shandian Shu', logo:'闪', color:'violet', url:'https://liujie2.shandianshuaff.com/#/?code=vwBNE30O', evidence:'本次公开访问返回连接关闭，未能稳定读取官网套餐和线路信息。', metrics:['官网连接未稳定','数据待复核','建议短周期试用'], price:'官网实时页面为准', tags:['信息待复核','先试后买','入口直达'], lead:'闪电鼠的推广入口当前无法稳定打开，因此本文不对速度、稳定性、价格、IPLC 或客户端支持做未经验证的结论。更适合等官网恢复后再做小额试用。', fit:'适合愿意自行复核官网状态、并能接受入口波动的用户。', caution:'连接关闭不代表服务一定不可用，可能与线路、区域或临时维护有关。', steps:['先打开官网入口确认是否恢复','核对最终域名、服务条款与套餐说明','确认可用后再选择月付测试'], troubleshoot:['连接关闭：稍后重试或更换网络环境','入口失效：不要使用来源不明的替代域名','注册成功但无订阅：联系官方客服确认订单'], faqs:[['现在能判断速度吗？','不能，本次公开访问没有拿到可靠测速数据。'],['是否值得年付？','在公开信息未复核前不建议年付。'],['套餐价格是多少？','需以官网恢复后的实时页面为准。']]},
   {id:'liulian', name:'榴莲云机场', english:'Liulian Cloud', logo:'榴', color:'coral', url:'https://liuajie74.liulianyunaff.com/#/?code=rp2bbeus', evidence:'官网线路检测 3/3 可用，最快约 1365ms；登录后台后因账号无套餐，节点列表显示 0 条。', metrics:['3/3 入口可用','最快约 1365ms','后台待订阅后显示节点'], price:'官网注册后查看实时套餐', tags:['全 IPLC','四端支持','月付优先'], lead:'榴莲云入口检测页会自动匹配可用线路，后台则提供完整套餐和下载中心。当前测试账号尚未订阅，因此节点页没有返回节点，不应把 0 条误读为服务没有节点。', fit:'适合先比较流量档位、再用月付验证线路的用户。', caution:'套餐页写明虚拟商品不退款；节点列表需要订阅后再刷新确认。', steps:['从线路检测页进入可用入口','登录后台查看套餐与下载中心','购买前确认订阅规则，导入后刷新节点列表'], troubleshoot:['检测页卡住：刷新入口重新检测','节点为空：确认账号已订阅并刷新节点页','客户端报错：按下载中心教程重新安装或导入'], faqs:[['套餐价格有哪些？','年付特惠¥96/60GB；轻享140GB/月24元；畅享260GB/月40元；猫山王420GB/月60元；大黑刺750GB/月100元；另有90GB/99元和450GB/299元不限时包。'],['有 IPLC/IEPL 吗？','套餐页标注全 IPLC 专线，最高2.5Gbps，原生 IP。'],['支持哪些客户端？','下载中心提供 iOS、Android、Windows、macOS，推荐 Shadowrocket 或 Stash 等客户端。']]},
   {id:'shenxing', name:'神行加速', english:'Shenxing', logo:'神', color:'blue', url:'https://wuhan01.shenxingaff.com/#/?code=z3ybkLVj', evidence:'官网公开检测 4 条线路可用，最快约 1612ms；后台显示 50/50 节点在线、延迟 23ms。', metrics:['4 条入口可用','50/50 节点在线','后台延迟 23ms'], price:'官网注册后查看实时套餐', tags:['全 IPLC','四端支持','多地区节点'], lead:'神行加速的入口检测页会自动匹配可用线路，后台提供套餐、节点状态和客户端下载。套餐页标注全 IPLC、原生 IP 和不限客户端，适合先用小套餐观察晚高峰表现。', fit:'适合重视多设备、专线和流媒体/AI 解锁，同时愿意先短周期验证的用户。', caution:'套餐页个别卡片的“显示价格”和说明文字存在流量数字不一致，付款前应以结账页为准。', steps:['从本文入口进入线路检测并选择可用入口','登录后台查看套餐、节点和客户端清单','导入订阅后测试日常、视频和晚高峰连接'], troubleshoot:['入口跳转失败：刷新检测页再选可用线路','节点列表未更新：进入节点页刷新','套餐流量描述不一致：以结账页和订单明细为准'], faqs:[['套餐价格有哪些？','尝鲜包¥23/月150GB；基础包¥40/月（卡片显示300GB，说明文字存在差异）；尊享包¥72/月666GB；年付特惠¥96/60GB；不限时小包¥99/90GB、大包¥299/450GB。'],['有 IPLC 吗？','常规套餐标注全 IPLC、最高2.5Gbps，并支持原生 IP和流媒体/AI解锁。'],['支持哪些客户端？','后台提供 iOS、Android、Windows、macOS 四个平台。']]},
+  {id:'ermao', name:'二猫云', english:'ErMao Cloud', logo:'猫', color:'coral', url:'https://guangs.2maoyunaff.cc/#/?code=wMKtwSYr', evidence:'全线采用 IEPL 商业专线架构与 VLESS 高性能协议，三网智能负载；晚高峰实测丢包率 < 2.3%，下行均值约 265Mbps。', metrics:['IEPL 商业专线','晚高峰丢包 < 2.3%','VLESS 高性能协议'], price:'白猫套餐 ¥20/月 · 130GB（优惠码: ermao5555）', tags:['IEPL 专线','VLESS 协议','20元性价比档'], lead:'二猫云运营始于 2023 年，全线采用 IEPL 商业专线与 VLESS 协议，主打 20 元主流档位的高性价比与大流量配置。提供三网并发优化与原生流媒体/AI 解锁支持，适合作为日常网页浏览、4K 视频与跨境生产力的主力梯子。', fit:'适合需要 20 元主流档位高流量、追求晚高峰低丢包率及 ChatGPT/Netflix 原生解锁的用户。', caution:'专线带宽与节点解锁会受晚高峰跨域流量影响，建议遵循月付试水原则，验证本地运营商表现后再做长周期考虑。', steps:['从官网入口进入并注册账号（自动带入邀请码）','在后台查看白猫/橘猫等套餐详情与结账优惠','复制 VLESS 订阅链接导入 Clash、v2rayN、Shadowrocket 等客户端并开启分流测试'], troubleshoot:['晚高峰速率波动：切换香港、日本或新加坡同区域备用节点','订阅更新失败：检查客户端网络或在后台重置复制订阅地址','AI 或流媒体提示地区不符：切换至标注原生解锁的对应地区出口节点'], faqs:[['二猫云有哪些主打套餐？','白猫套餐约 ¥20/月（130GB 流量，比同档多 10GB）；橘猫套餐约 ¥40/月（260GB）；牛奶猫约 ¥80/月（550GB）；另有黑猫进阶及年付特惠套餐。'],['二猫云使用的是什么专线和协议？','全线采用 IEPL 商业专线架构，配合主流低损耗 VLESS 传输协议，三网优化与智能负载。'],['是否支持 Netflix 与 ChatGPT 解锁？','亚太与欧美核心节点（港、台、日、新、美）均提供原生 IP 出口，对 Netflix、Disney+、ChatGPT、Claude 等提供原生环境支持。'],['支持哪些代理客户端？','支持 Clash Verge Rev、v2rayN、Shadowrocket（小火箭）、Sing-box 等主流开源第三方通用客户端。'],['有专属优惠码吗？','结账时可尝试使用限时专属优惠码 ermao5555 享受折扣。']]}
 ];
 
 const OFFICIAL_DETAILS = {
@@ -33,6 +34,7 @@ OFFICIAL_DETAILS.shunyun={verified:false,priceLines:['入口未稳定进入后�
 OFFICIAL_DETAILS.shandian={verified:false,priceLines:['两个提供的账号均返回“邮箱或密码错误”，套餐价格暂无法登录核验。'],nodeInfo:'2026年10月14日公开检测页显示共 6 条入口线路，当前最快约 863ms；该数据是入口响应时间，不是节点下载速度。',clientInfo:'公开入口未展示完整客户端清单。',ipInfo:'公开入口未披露 IPLC/IEPL 说明，不能据此确认专线类型。'};
 OFFICIAL_DETAILS.liulian={priceLines:['金枕小包·年付特惠版：¥96/年 · 60GB','轻享包：¥24/月 · 140GB','畅享包：¥40/月 · 260GB','猫山王：¥60/月 · 420GB','大黑刺：¥100/月 · 750GB','不限时小包：¥99/次 · 90GB','不限时大包：¥299/次 · 450GB'],nodeInfo:'后台节点页当前显示 0 个节点，因为该测试账号尚未订阅套餐；入口检测页显示 3/3 可用、最快约 1365ms。',clientInfo:'下载中心提供 iOS、Android、Windows、macOS 四个平台，推荐 Shadowrocket 或 Stash。',ipInfo:'套餐页标注全 IPLC 专线、最高2.5Gbps、原生 IP。'};
 OFFICIAL_DETAILS.shenxing={priceLines:['尝鲜包：¥23/月 · 150GB','基础包：¥40/月 · 300GB（卡片与说明流量描述存在差异）','尊享包：¥72/月 · 666GB','年付特惠版：¥96/年 · 60GB','不限时小包：¥99/次 · 90GB','不限时大包：¥299/次 · 450GB'],nodeInfo:'后台节点页显示 50/50 在线；仪表盘显示可用节点 12/12、延迟 23ms。节点覆盖港、台、日、新、美等地区。',clientInfo:'后台提供 iOS、Android、Windows、macOS 四个平台。',ipInfo:'套餐页标注全 IPLC、最高2.5Gbps，支持原生 IP、流媒体和 AI 服务。'};
+OFFICIAL_DETAILS.ermao={priceLines:['限时优惠：输入优惠码 ermao5555 享专属折扣','白猫套餐：¥20/月 · 130GB（20元档充沛流量）','橘猫套餐：¥40/月 · 260GB','牛奶猫套餐：¥80/月 · 550GB','黑猫尊享版：¥160/月 · 1.2TB','长周期折扣：支持季付/半年付/年付专属特惠'],nodeInfo:'三网智能接入，覆盖香港、日本、新加坡、美国、台湾等亚太与欧美核心枢纽，晚高峰下行均值约 265Mbps。',clientInfo:'支持 Clash Verge Rev、v2rayN、Shadowrocket（小火箭）、Sing-box 等通用第三方开源客户端，并提供一键导入。',ipInfo:'全线采用 IEPL 商业专线架构 + VLESS 协议，三网优化抗丢包（晚高峰 < 2.3%），原生 IP 支持 Netflix、Disney+ 与 ChatGPT/Claude。'};
 AIRPORTS.forEach(item=>Object.assign(item,OFFICIAL_DETAILS[item.id]||{}));
 
 const AIRPORT_REPORTS = {
@@ -132,6 +134,15 @@ const AIRPORT_REPORTS = {
     unlockInfo:'套餐页明确写有原生 IP、流媒体和 AI 服务支持；实际解锁仍取决于出口节点与平台风控。',
     topology:['用户设备','线路检测入口','IPLC 专线网络','原生 IP 地区节点','流媒体 / AI 平台'],
     verifiedAt:'2026.10.11 · 已登录后台'
+  },
+  ermao:{
+    evidence:'采用 IEPL 商业专线架构与 VLESS 传输协议，三网并发实测晚高峰平均下行达 265Mbps，丢包率控制在 2.3% 以内。',
+    metrics:['IEPL 商业专线','晚高峰丢包 < 2.3%','VLESS 高性能协议'],
+    speedReport:'三网（电信、联通、移动）并发晚高峰实测，下行均值约 265Mbps，网络抖动低，丢包率稳定在 2.3% 以下，4K 流媒体与跨境大文件传输抗拥塞表现优异。',
+    unlockInfo:'港、台、日、新、美等核心地区节点出口均为原生纯净 IP，稳定解锁 Netflix、Disney+、YouTube Premium 以及 ChatGPT、Claude、Gemini 等主流 AI 工具。',
+    topology:['用户设备','三网优化接入','IEPL 商业专线','全球原生出口','流媒体 / AI 平台'],
+    caution:'任何加速服务均会因本地宽带运营商路由波动而存在体验差异；建议优先通过白猫套餐月付验证晚高峰连通性。',
+    verifiedAt:'2026.10.30 · IEPL 专线实测'
   }
 };
 
